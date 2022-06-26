@@ -17,7 +17,8 @@
 <hr>
 
 ### 👨‍💻 About Me
-- 👨‍🎓 I am a full time student at Oslo Metropolitan University where I´m graduating with a bachelor degree in Information Technology in June 2023  💻
+- 👨‍🎓 I am a full time student at Oslo Metropolitan University.
+   - Graduating with a bachelors degree in Information Technology in June 2023  💻
 - 🏬 Temporarily working as a part-time salesman in a sport store
 - 🇫🇷 Recently returned after a semester abroad at National Institute of Applied Sciences of Toulouse
 
@@ -30,7 +31,7 @@
    <b>Some more familiar and frequently used than others</b>
  </div>
  
- <div align=inline-block>
+ <div align="inline-block">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
