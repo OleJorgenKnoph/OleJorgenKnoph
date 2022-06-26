@@ -9,9 +9,16 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
  </div>
+ 
+ ### Hi there 👋
+ 
 </div>
 
-### Hi there 👋
+### 👨‍💻 : About Me :
+- 👨‍🎓 I am a full time student at Oslo Metropolitan University undergoing a bachelor degree in Information Technology 💻
+- 
+
+
 
 
 
