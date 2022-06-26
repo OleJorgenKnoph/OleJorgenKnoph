@@ -49,7 +49,7 @@ I am a full time student at Oslo Metropolitan University, where I will graduate 
 <br>
 <hr>
 
-<div align="center">
+
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OleJorgenKnoph&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
 
@@ -58,4 +58,4 @@ I am a full time student at Oslo Metropolitan University, where I will graduate 
  
  ![OJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleJorgenKnoph&show_icons=true&theme=github_dark&hide_border=true&hide=stars)
 
-</div>
+
