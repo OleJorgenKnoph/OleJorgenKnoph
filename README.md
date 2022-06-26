@@ -17,10 +17,55 @@
 <hr>
 <br>
 
-### 👨‍💻 : About Me :
+### 👨‍💻 About Me
 - 👨‍🎓 I am a full time student at Oslo Metropolitan University where I´m graduating with a bachelor degree in Information Technology in June 2023  💻
 - 🏬 Temporarily working as a part-time salesman in a sport store
 - 🇫🇷 Recently returned after a semester abroad at National Institute of Applied Sciences of Toulouse
+
+<div align="center">
+## 🛠️ Familiar Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg
+"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg
+"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg
+"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg
+"  title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg
+"  title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg
+"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg
+"  title="PostGresSQL" alt="PostGresSQL" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
+"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg
+"  title="SpringBoot" alt="SpringBoot" width="40" height="40"/>&nbsp;
+
+# 👷‍♂️ Currently learning
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
+"  title="React" alt="React" width="40" height="40"/>&nbsp;
+
+</div>
 
 <br>
 <hr>
@@ -38,21 +83,3 @@
  ### [Check out my website to see more](ojknoph.com)
 
 </div>
-
-
-
-
-<!--
-**OleJorgenKnoph/OleJorgenKnoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
