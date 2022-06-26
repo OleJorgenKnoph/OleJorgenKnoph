@@ -1,7 +1,7 @@
 
  <div id="header" align="inline-block">
  
-   <div align="center" width="100">
+   <div align="center" width="60%">
      <!--Eyes-->
       <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="100"/>
 
@@ -14,7 +14,7 @@
     
   </div>
  
-  <div width="50">
+  <div width="40%">
      <h1> hei </h1>
   </div>
   
