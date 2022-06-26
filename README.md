@@ -54,8 +54,8 @@ I am a full time student at Oslo Metropolitan University, where I will graduate 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OleJorgenKnoph&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleJorgenKnoph&layout=compact&theme=vision-friendly-dark)](https://github.com/OleJorgenKnoph/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleJorgenKnoph&layout=compact&theme=github_dark&hide_border=true)](https://github.com/OleJorgenKnoph/github-readme-stats)
  
- ![OJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleJorgenKnoph&show_icons=true&theme=vision-friendly-dark)
+ ![OJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleJorgenKnoph&show_icons=true&theme=github_dark&hide_border=true&hide=stars)
 
 </div>
