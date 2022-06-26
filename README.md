@@ -15,10 +15,7 @@
 <hr>
 
 ### 👨‍💻 About Me
-- 👨‍🎓 I am a full time student at Oslo Metropolitan University.
-   - Graduating with a bachelors degree in Information Technology in June 2023  💻
-- 🏬 Temporarily working as a part-time salesman in a sport store
-- 🇫🇷 Recently returned after a semester abroad at National Institute of Applied Sciences of Toulouse
+I am a full time student at Oslo Metropolitan University, where I will graduate with a bachelors degree in Information Technology June 2023 👨‍🎓 I am currently working on the side as a part-time salesman in a sport store, but looking forward to catching on to a more relevant career soon. I recently returned after an exchange semester at National Institure of Applied Sciences of Toulouse 🇫🇷
 
 <br>
 <hr>
@@ -57,9 +54,5 @@
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleJorgenKnoph&layout=compact&theme=vision-friendly-dark)](https://github.com/OleJorgenKnoph/github-readme-stats)
-
- <br>
- 
- ### <a href="ojknoph.com">Check out my website</a>
 
 </div>
