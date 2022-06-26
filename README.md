@@ -18,7 +18,9 @@
 <br>
 
 ### 👨‍💻 : About Me :
-- 👨‍🎓 I am a full time student at Oslo Metropolitan University undergoing a bachelor degree in Information Technology  💻
+- 👨‍🎓 I am a full time student at Oslo Metropolitan University where I´m graduating with a bachelor degree in Information Technology in June 2023  💻
+- 🏬 Temporarily working as a part-time salesman in a sport store
+- 🇫🇷 Recently returned after a semester abroad at National Institute of Applied Sciences of Toulouse
 
 <br>
 <hr>
