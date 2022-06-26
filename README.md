@@ -1,5 +1,13 @@
-<div id="header" align="center">
+<!--Eyes-->
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="100"/>
+</div>
+
+<!--Badge-->
+<div id="badges">
+  <a href="(https://www.linkedin.com/in/ole-jørgen-knoph-53217620a/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ### Hi there 👋
