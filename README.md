@@ -28,6 +28,7 @@
 
 <div align="center">
  <h3> 🛠️ Familiar Tools </h3>
+ <b>Some more familiar and frequently used than others</b>
  
  <div id="tools" align="none"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
