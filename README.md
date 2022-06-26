@@ -60,6 +60,6 @@
 
  <br>
  
- ### [Check out my website to see more](ojknoph.com)
+ ### <a href="ojknoph.com">Check out my website</a>
 
 </div>
