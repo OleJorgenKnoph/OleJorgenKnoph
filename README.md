@@ -1,30 +1,17 @@
-
- <div id="header" align="inline-block">
+<div id="header" align="center">
  
-   <div align="center" width="60%">
-     <!--Eyes-->
-      <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="100"/>
 
-     <!--Badge-->
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/ole-jørgen-knoph-53217620a/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-    </div>
-    
+  <div id="badges">
+       <a href="https://www.linkedin.com/in/ole-jørgen-knoph-53217620a/">
+         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+       </a>
   </div>
  
-  <div width="40%">
-     <h1> hei </h1>
-  </div>
-  
-  
-</div>
+   ### Hi there 👋
  
- ### Hi there 👋
+ </div>
  
-</div>
-
 <hr>
 
 ### 👨‍💻 About Me
@@ -68,10 +55,9 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OleJorgenKnoph&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
 
- <br> 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleJorgenKnoph&layout=compact&theme=vision-friendly-dark)](https://github.com/OleJorgenKnoph/github-readme-stats)
- 
+
  <br>
  
  ### [Check out my website to see more](ojknoph.com)
