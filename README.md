@@ -15,10 +15,12 @@
 </div>
 
 <hr>
+<br>
 
 ### 👨‍💻 : About Me :
 - 👨‍🎓 I am a full time student at Oslo Metropolitan University undergoing a bachelor degree in Information Technology  💻
 
+<br>
 <hr>
 
 <div align="center">
