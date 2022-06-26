@@ -1,13 +1,20 @@
 
- <div id="header" align="center">
-  <!--Eyes-->
-   <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="100"/>
+ <div id="header" align="inline-block">
+   <div align="center" width="200">
+    <!--Eyes-->
+     <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="100"/>
 
-  <!--Badge-->
- <div id="badges">
-   <a href="https://www.linkedin.com/in/ole-jørgen-knoph-53217620a/">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
+    <!--Badge-->
+   <div id="badges">
+     <a href="https://www.linkedin.com/in/ole-jørgen-knoph-53217620a/">
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </a>
+   </div>
+    <div>
+     # hei
+    </div>
+  
+  
  </div>
  
  ### Hi there 👋
