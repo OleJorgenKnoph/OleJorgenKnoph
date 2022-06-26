@@ -14,6 +14,8 @@
  
 </div>
 
+<hr>
+
 ### 👨‍💻 : About Me :
 - 👨‍🎓 I am a full time student at Oslo Metropolitan University undergoing a bachelor degree in Information Technology  💻
 
