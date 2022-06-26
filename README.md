@@ -22,10 +22,14 @@
 - 🏬 Temporarily working as a part-time salesman in a sport store
 - 🇫🇷 Recently returned after a semester abroad at National Institute of Applied Sciences of Toulouse
 
+<br>
+<hr>
+<br> 
+
 <div align="center">
  <h3> 🛠️ Familiar Tools </h3>
  
- <div id="tools"> 
+ <div id="tools" align="none"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
