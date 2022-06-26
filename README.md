@@ -55,5 +55,7 @@ I am a full time student at Oslo Metropolitan University, where I will graduate 
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleJorgenKnoph&layout=compact&theme=vision-friendly-dark)](https://github.com/OleJorgenKnoph/github-readme-stats)
+ 
+ ![OJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleJorgenKnoph&show_icons=true&theme=vision-friendly-dark)
 
 </div>
