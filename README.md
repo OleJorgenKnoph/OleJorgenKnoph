@@ -1,6 +1,6 @@
 
  <div id="header" align="inline-block">
-   <div align="center" width="200">
+   <div align="center" width="100">
     <!--Eyes-->
      <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="100"/>
 
