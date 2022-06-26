@@ -15,8 +15,13 @@
 </div>
 
 ### 👨‍💻 : About Me :
-- 👨‍🎓 I am a full time student at Oslo Metropolitan University undergoing a bachelor degree in Information Technology 💻
-- 
+- 👨‍🎓 I am a full time student at Oslo Metropolitan University undergoing a bachelor degree in Information Technology  💻
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleJorgenKnoph&layout=compact&theme=vision-friendly-dark)](https://github.com/OleJorgenKnoph/github-readme-stats)
+
 
 
 
