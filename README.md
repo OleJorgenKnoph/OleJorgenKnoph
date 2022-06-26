@@ -1,5 +1,6 @@
 
  <div id="header" align="inline-block">
+ 
    <div align="center" width="100">
     <!--Eyes-->
      <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="100"/>
@@ -10,6 +11,8 @@
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
    </div>
+ </div>
+ 
     <div width="50">
      <h1> hei </h1>
     </div>
