@@ -15,7 +15,7 @@
 <hr>
 
 ### 👨‍💻 About Me
-I am a full time student at Oslo Metropolitan University, where I will graduate with a bachelors degree in Information Technology June 2023 👨‍🎓 I am currently working on the side as a part-time salesman in a sport store, but looking forward to catching on to a more relevant career soon. I recently returned after an exchange semester at National Institure of Applied Sciences of Toulouse 🇫🇷
+I am a full time student at Oslo Metropolitan University, where I will graduate with a bachelors degree in Information Technology June 2023 👨‍🎓 I am currently working on the side as a part-time salesman in a sport store, but looking forward to catching on to a more relevant career soon. I recently returned after an exchange semester at National Institute of Applied Sciences of Toulouse 🇫🇷
 
 <br>
 <hr>
